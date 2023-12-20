@@ -1,0 +1,8 @@
+/* styles.css */
+.button {
+    -fx-font-size: 14px;
+}
+
+.icon-button {
+    -fx-graphic-text-gap: 10;
+}
